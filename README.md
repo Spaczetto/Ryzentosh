@@ -1,5 +1,9 @@
 # Ryzentosh
 
+## Important information
+This EFI was created by @sileshn and the original design can be found here
+https://github.com/sileshn/Ryzentosh
+
 ## Specification
 
 | Component        | Model                                              |
