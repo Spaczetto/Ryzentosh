@@ -22,6 +22,6 @@ https://github.com/sileshn/Ryzentosh
 
 * Bluetooth
 * Ethernet
-* Wifi
+* Wifi (For Archer T4U Plus use this https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter)
 
 ## Not Working (?)
