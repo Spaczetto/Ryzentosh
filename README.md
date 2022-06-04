@@ -5,7 +5,7 @@ This EFI was created by @sileshn, but I only edited it to work with 4-core Ryzen
 The link to the actual project can be found here
 https://github.com/sileshn/Ryzentosh
 
-https://i.imgur.com/8nna4Bp.png
+[![ss.png](https://i.imgur.com/8nna4Bp.png)](https://imgur.com/8nna4Bp)
 
 ## Specification
 
